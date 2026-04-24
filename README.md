@@ -13,6 +13,19 @@
 
 **Submitted by:** Godswill Omondi (on behalf of Group 7)
 
+### Group members and Reg Numbers
+
+**1. OMILLO FIDEL CHARLES** - CIT-227-097/2024
+2. BENEDICT ONYANGO OTIENO - CIT-227-092/2024
+3. GODSWILL OMONDI AJUOGA - CIT-227-096/2024
+4. ADAMS KIPSANG - CIT-227-095/2024
+5. BRIAN ONDIEKI CIT-227-092/2023
+6. TOBIAS OMOLLO OPERE - CIT-227-100/2024
+7. AMON CHERUIYOT-CIT-227-101/2024
+8. MUCHAI ESTHER KENDI -CIT-227-098/2024
+9. PAMCY BETTY MAIWA -CIT_227_099/2024
+10. RONNEY OLUOCH - CIT-227-091/2024
+
 ## Project Overview
 
 This project is a Task Manager Web Application built using HTML, CSS, and JavaScript. It allows users to efficiently manage their tasks with features such as adding, editing, deleting, sorting, and reordering tasks.
